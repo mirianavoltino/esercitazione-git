@@ -4,3 +4,5 @@ Comandi principali:
 -git status
 -git add
 -git commit
+****
+git tag
